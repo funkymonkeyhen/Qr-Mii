@@ -4,7 +4,7 @@
     "coder": "FunkyMonkeyHen",
     "version": "1.0",
     "category": "utilities",
-    "extract": "apps/wiimii2qr"
+    "extract": "apps/qr-mii"
   },
   "source": {
     "type": "url",
