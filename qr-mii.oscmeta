@@ -1,1 +1,13 @@
-
+{
+  "information": {
+    "name": "QR Mii",
+    "coder": "FunkyMonkeyHen",
+    "version": "1.0",
+    "category": "utilities",
+    "extract": "apps/wiimii2qr"
+  },
+  "source": {
+    "type": "url",
+    "url": "https://github.com/funkymonkeyhen/Qr-Mii/releases/download/beta/qr-mii.zip"
+  }
+}
