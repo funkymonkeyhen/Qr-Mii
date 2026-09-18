@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>QR Mii</name>
+    <coder>FunkyMonkeyHen</coder>
+    <version>1.0</version>
+    <release_date>20260918000000</release_date>
+    <short_description>Converts Wii Miis to scannable Mii QR codes</short_description>
+    <long_description>Reads raw Wii Mii files from sd:/miis/in, converts each to a 3DS-compatible Mii QR code, and saves the result as a BMP image in sd:/miis/out so it can be scanned by a 3DS, Wii U, or Nintendo Switch 2's Mii Maker.</long_description>
+    <ahb_access/>
+</app>
