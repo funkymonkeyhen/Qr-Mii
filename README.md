@@ -1,4 +1,4 @@
-<h1>QR Mii</h1>
+<img width="128" height="48" alt="QR Mii" src="https://github.com/user-attachments/assets/95a0d095-4177-42da-a53a-dc71efbc9996" />
 <p>This is a project where you can make Mii QR Codes from your wii</p>
 <hr>
 <p></p>Third-party code included</p>
