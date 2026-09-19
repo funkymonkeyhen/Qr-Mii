@@ -16,6 +16,8 @@
 <h2>Optional</h2>
 <p>If Saving the QR Code dosn't work just scan it with your phone and use that to save the qr code</p>
 <hr>
+<h2>Screenshots</h2>
+<img alt="working on 3ds" scr="https://github.com/funkymonkeyhen/qr-mii/blob/main/screenshots/IMG_20260919_114911_432.jpg?raw=true" />
 
 <p></p>Third-party code included</p>
 `source/qrcodegen.c/h` - Nayuki's QR Code generator library (MIT license).
