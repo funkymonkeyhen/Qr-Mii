@@ -1,10 +1,9 @@
 {
-  "information": {
-    "name": "QR Mii",
-    "coder": "FunkyMonkeyHen",
+  "details": {
+    "title": "QR Mii",
+    "author": "FunkyMonkeyHen",
     "version": "1.0",
-    "category": "utilities",
-    "extract": "apps/qr-mii"
+    "category": "utilities"
   },
   "source": {
     "type": "url",
