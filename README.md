@@ -17,8 +17,11 @@
 <p>If Saving the QR Code dosn't work just scan it with your phone and use that to save the qr code</p>
 <hr>
 <h2>Screenshots</h2>
-<img alt="working on 3ds" src="screenshots/IMG_20260919_114911_432.jpg" />
-
+<img alt="working with 3ds" src="screenshots/IMG_20260919_114911_432.jpg" />
+<img alt="working with switch2" src="screenshots/IMG_20260919_115239_475.jpg" />
+<img alt="selection screen" src="screenshots/WIN_20260919_11_56_53_Pro.jpg" />
+<img alt="Created Qr Code Screen" src="screenshots/WIN_20260919_11_57_19_Pro.jpg" />
+<img alt="saved to sd card" src="screenshots/saved.jpg" />
 <p></p>Third-party code included</p>
 `source/qrcodegen.c/h` - Nayuki's QR Code generator library (MIT license).
 This is the same QR library used by the MiiPort homebrew project.
